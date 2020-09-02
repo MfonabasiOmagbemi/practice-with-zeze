@@ -1,0 +1,19 @@
+{
+  "name": "practice-with-zeze",
+  "version": "1.0.0",
+  "description": "Replica of zeze practice work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MfonabasiOmagbemi/practice-with-zeze.git"
+  },
+  "author": "Mfonabasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MfonabasiOmagbemi/practice-with-zeze/issues"
+  },
+  "homepage": "https://github.com/MfonabasiOmagbemi/practice-with-zeze#readme"
+}
